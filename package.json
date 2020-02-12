@@ -31,7 +31,6 @@
     "url": "https://github.com/GPMDP/electron-devtools-installer.git"
   },
   "devDependencies": {
-    "babel": "^6.5.2",
     "babel-cli": "^6.9.0",
     "babel-core": "^6.25.0",
     "babel-plugin-transform-object-rest-spread": "^6.23.0",
